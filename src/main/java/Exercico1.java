@@ -10,6 +10,6 @@ public class Exercico1 {
         total = zumbi1+zumbi2+zumbi3;
 
         System.out.println("Total de zumbis:"+total);
-        System.out.println("Media: "+ total/3);
+        System.out.println("Media: "+ total/3);    
     }
 }
