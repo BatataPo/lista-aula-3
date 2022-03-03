@@ -8,10 +8,10 @@ public class Exercicio5 {
         int x = rand.nextInt(10)+1;
 
         int y = entrada.nextInt();
-        do{
+        while(x!=y)
+        {
             y = entrada.nextInt();
-
-        }while(x!=y);
+        }
 
         System.out.println("Parabéns!!!");
 
