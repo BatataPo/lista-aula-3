@@ -4,9 +4,9 @@ public class Exercicio4 {
     public static void main(String[] args) {
 
         Scanner entrada = new Scanner(System.in);
-        int Alunos = entrada.nextInt();
+        int X = entrada.nextInt();
 
-        switch (Alunos){
+        switch (X){
             case 10:
                 System.out.printf("SALA I-15");
             break;
